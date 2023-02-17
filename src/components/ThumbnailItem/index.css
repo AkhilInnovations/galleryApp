@@ -1,0 +1,25 @@
+/* Write your code here. */
+
+.image {
+  width: 100%;
+}
+
+.button {
+  width: 12%;
+  cursor: pointer;
+  border: none;
+  border-width: 0px;
+  border-style: none;
+  border-radius: 8px;
+  opacity: 0.5;
+}
+
+.tab-item-container {
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+
+.active-tab-btn {
+  opacity: 1;
+  cursor: pointer;
+}
